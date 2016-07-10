@@ -1,2 +1,2 @@
 # componet_libs
-KiCad Component Libraries 
+KiCad Component Libraries.
